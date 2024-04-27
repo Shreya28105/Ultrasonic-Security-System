@@ -1,2 +1,2 @@
 # Ultrasonic-Security-System
-An ultrasonic security system uses high-frequency sound waves to detect motion. When movement is sensed, it triggers an alarm, alerting of potential intrusion.
+In an ultrasonic security system project using Arduino Uno, ultrasonic sensors detect motion, and the Arduino processes this data to trigger actions like lighting LEDs and activating a buzzer. This setup requires connecting the ultrasonic sensor, LEDs, buzzer, and resistors to the Arduino Uno. By programming the Arduino, it interprets sensor readings, controls the LEDs, and sounds the buzzer to signal detected motion, providing a comprehensive security solution.
